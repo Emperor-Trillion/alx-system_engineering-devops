@@ -1,2 +1,2 @@
 #!/bin/bash
-mv 6-firstdirectory /tmp
+cp 6-firstdirectory /tmp
