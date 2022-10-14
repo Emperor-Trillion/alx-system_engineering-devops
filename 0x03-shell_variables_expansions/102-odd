@@ -1,2 +1,2 @@
 #!/bin/bash
-echo -e "tr " " "\n""
+echo -e tr " " "\n"
