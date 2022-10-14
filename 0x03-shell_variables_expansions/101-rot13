@@ -1,2 +1,2 @@
 #!/bin/bash
-$quote | tr 'N-ZA-Mn-za-m' 'A-MN-Za-mn-z'     
+$quote > tr 'N-ZA-Mn-za-m' 'A-MN-Za-mn-z'     
