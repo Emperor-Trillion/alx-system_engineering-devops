@@ -1,2 +1,2 @@
 #!/bin/bash
-"$quote" | tr 'A-MN-Za-mn-z' 'N-ZA-Mn-za-m'
+"$quote" | tr 'N-ZA-Mn-za-m' 'A-MN-Za-mn-z' 
