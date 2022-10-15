@@ -1,1 +1,1 @@
-Testing Standard Input and Output
+Not being a coward, redoing my stuff with the required diligence.
